@@ -1,0 +1,94 @@
+html, body {
+    background: #f3f3f3 !important;
+    padding: 0 !important;
+    color: #555 !important;
+}
+
+body {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+
+.pagecont {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Verdana", sans-serif !important;
+    width: 700px !important;
+    margin: 0 auto !important;
+    background: #fff !important;
+    padding: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    border-radius: 10px !important;
+    border: 2px solid #ddd !important;
+    -webkit-box-shadow: #ddd 0 1px 5px !important;
+    -moz-box-shadow: #ddd 0 1px 5px !important;
+    box-shadow: #ddd 0 1px 5px !important;
+}
+
+.topline {
+    display: none !important;
+}
+
+#thisdate {
+    padding-left: 15px !important;
+    font-size: 12px !important;
+}
+
+.navbar {
+    display: none !important;
+}
+
+#topcol23 {
+    display: none !important;
+}
+
+#topcol1 {
+    width: inherit !important;
+    padding: 0 25px 0 0 !important;
+    margin: 0 !important;
+}
+
+#river_timeline {
+	width: 100% !important;
+}
+
+#river_sponsors_hiring {
+	display: none !important;
+}
+
+.itc1 table td {
+	font-size: 14px !important;
+}
+
+#topcol1 h2 {
+    display: none !important;
+}
+
+.shrtbl, .shrtbl * {
+    font: bold 11px "Lucida Grande", "Verdana", sans-serif  !important;
+}
+
+.item .ii {
+    font: normal 12px/1.4em "Lucida Grande", "Lucida Sans Unicode", "Verdana", sans-serif !important;
+}
+
+.item .ii strong {
+    position: relative !important;
+    top: -1px !important;
+    font: bold 20px/1.0em "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+.item .dbpt {
+    font: normal 12px/1.4em "Lucida Grande", "Lucida Sans Unicode", "Verdana", sans-serif !important;
+}
+
+.item .dbpt .drhed {
+    font: bold 12px/1.5em "Lucida Grande", "Lucida Sans Unicode", "Verdana", sans-serif !important;
+}
+
+#botcol1 {
+    display: none !important;
+}
+
+#botcol2 {
+    display: none !important;
+}
