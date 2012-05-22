@@ -3,8 +3,6 @@ memetr
 
 Get from this:
 
-<img src="http://memetr.s3.amazonaws.com/1o.png" />
-![alt text](http://memetr.s3.amazonaws.com/1o.png "")
 
 To this:
 
