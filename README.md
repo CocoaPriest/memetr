@@ -3,7 +3,7 @@ memetr
 
 Get from this:
 
-<img src="http://memetr.s3.amazonaws.com/1o.png" />
+<img src="http://memetr.s3-external-3.amazonaws.com/1o.png" />
 
 
 To this:
