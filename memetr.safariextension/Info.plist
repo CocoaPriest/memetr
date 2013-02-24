@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Konstantin Gonikman</string>
 	<key>Builder Version</key>
-	<string>7534.52.7</string>
+	<string>8536.26.17</string>
 	<key>CFBundleDisplayName</key>
 	<string>memetr</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>3</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>

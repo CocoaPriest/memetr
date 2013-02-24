@@ -11,7 +11,7 @@ body {
 
 .pagecont {
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Verdana", sans-serif !important;
-    width: 700px !important;
+    width: 890px !important;
     margin: 0 auto !important;
     background: #fff !important;
     padding: 10px !important;
@@ -41,6 +41,10 @@ body {
     display: none !important;
 }
 
+.rshr {
+    display: none !important;
+}
+
 #topcol1 {
     width: inherit !important;
     padding: 0 25px 0 0 !important;
@@ -49,10 +53,15 @@ body {
 
 #river_timeline {
 	width: 100% !important;
+    float: none !important;
 }
 
 #river_sponsors_hiring {
 	display: none !important;
+}
+
+.itc1 {
+    padding-left: 1em !important;
 }
 
 .itc1 table td {
